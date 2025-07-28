@@ -1,0 +1,11 @@
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+data/*
+
+.DS_Store
+Thumbs.db
