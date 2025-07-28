@@ -28,7 +28,7 @@ This project aims to predict the survival of Titanic passengers using a dataset 
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/YourUserName/titanic-project.git
+   git clone https://github.com/Hamidreza-ahd/titanic-survival-prediction.git
    cd titanic-project
    ```
 
