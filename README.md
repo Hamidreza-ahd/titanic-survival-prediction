@@ -14,8 +14,7 @@ This project aims to predict the survival of Titanic passengers using a dataset 
 
 ```
 ├── data/
-│   ├── raw/               # Original train.csv and test.csv files
-│   └── processed/         # Processed datasets (if any)
+│   └── raw/               # Original train.csv and test.csv files
 ├── notebooks/
 │   └── titanic_project.ipynb  # Jupyter notebook with full analysis
 ├── .gitignore             # Files and folders to ignore in Git
